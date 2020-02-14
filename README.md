@@ -1,2 +1,2 @@
 # Homework
-This is the first home work.
+This is the submission of the code refactor submission.
